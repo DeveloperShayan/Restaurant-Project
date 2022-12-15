@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "name": "Shayan Niaz Memon",
+      "email": "niazshayan@gmail.com",
+      "password": "123456789",
+      "id": 1
+    },
+    {
+      "name": "Jibran Ali Abbasi",
+      "email": "jibu@gmail.com",
+      "password": "123456789",
+      "id": 2
+    },
+    {
+      "name": "Faizan Ali",
+      "email": "faizan@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "Jaipal",
+      "email": "jai@gmail.com",
+      "password": "123456789",
+      "id": 4
+    },
+    {
+      "name": "Wasib",
+      "email": "wasib@gmail.com",
+      "password": "123456789",
+      "id": 5
+    },
+    {
+      "name": "Wasib",
+      "email": "wasib@gmail.com",
+      "password": "12345",
+      "id": 6
+    },
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "12334",
+      "id": 7
+    },
+    {
+      "name": "azy",
+      "email": "azy@gmail.com",
+      "password": "2333232",
+      "id": 8
+    },
+    {
+      "name": "azy",
+      "email": "azy@gmail.com",
+      "password": "234234234",
+      "id": 9
+    },
+    {
+      "name": "azy",
+      "email": "azy@gmail.com",
+      "password": "4234234",
+      "id": 10
+    },
+    {
+      "name": "azy",
+      "email": "azy@gmail.com",
+      "password": "2423423234",
+      "id": 11
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "KFC",
+      "address": "Thandi Sarak Hyderbad",
+      "contact": "0223232",
+      "id": 1
+    },
+    {
+      "name": "McDonald",
+      "address": "Saddar Hyderbad",
+      "contact": "02255232",
+      "id": 2
+    },
+    {
+      "name": "Jaw Breakers",
+      "address": "Qasimabad Hyderbad",
+      "contact": "022662332",
+      "id": 3
+    },
+    {
+      "name": "Pk Roll Point",
+      "address": "AutoBan Road Hyderabad",
+      "contact": "022323245534",
+      "id": 4
+    },
+    {
+      "name": "Butt Karahi Restaurant",
+      "address": "Hatri Bypass Hyderabad",
+      "contact": "43845892357238",
+      "id": 6
+    }
+  ]
+}
